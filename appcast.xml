@@ -3,6 +3,21 @@
     <channel>
         <title>Mindlake</title>
         <item>
+            <title>0.8.45</title>
+            <pubDate>Fri, 30 Oct 2026 18:50:55 +0000</pubDate>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>0.8.45</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake-0.8.45.zip" length="67592573" type="application/octet-stream" sparkle:edSignature="6k87OPH7ErMZdONlZDflxQHNYnOJ3wU2uZUaX+5OXdNbk1L/wJ6i3bYpHoTuMhWxBqC3lEIxqcPUJsuo5zGUCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake49-48.delta" sparkle:deltaFrom="48" length="5754258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wDorqMEdJpYAjMg9IUA1jYQ85k5J/khJNJ+o7qQTkWnfJZBi+e8W8/zt/fYj2gy+wqSuquQuUfSzw3T5KxmuDg=="/>
+                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake49-47.delta" sparkle:deltaFrom="47" length="7489222" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oI/QVGqxAMAvvrYElzKBx10ee7isQVrA6qONhqLtB1LwESGNKCAA68RONj8mpyGT5pU+EjlyDQKw4/99xU53DA=="/>
+                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake49-46.delta" sparkle:deltaFrom="46" length="7554878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E2Bc3bHKsKAm6mxnIQPlt3A1R1mQjDIOJ9Ww+8bfUINs86fYc0uavEB7I/IcARIX/YbSM7Br0QvG6HEAvTUiCQ=="/>
+                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake49-42.delta" sparkle:deltaFrom="42" length="9265258" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OqZXRQ30YGkkUt1zz4YNzn1wniSaFGz7Z3IEQpgG9lp5sZ5wCD2KhokKS960ElV9oo3gXpoQPBWu6YOWN/7eBA=="/>
+                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake49-41.delta" sparkle:deltaFrom="41" length="9376766" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o/TLOh3dAIcnTNy595Cz/XF2QCbCkYbvFPbsBL/YY0kZWzH4l96B0idhAhTuXj5mfAb73gmKkWs3My1UdvqeAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8.44</title>
             <pubDate>Mon, 26 Oct 2026 22:30:43 +0000</pubDate>
             <sparkle:version>48</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake47-41.delta" sparkle:deltaFrom="41" length="7929010" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U5kXenrLnr8ZJOYCvDKDjc5RnXU3xt2XxcVr85EDbFOGG/HQivH2NXeC5dT4OlyhIFkXtFdJrXpO0p7GsU3sDw=="/>
                 <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake47-40.delta" sparkle:deltaFrom="40" length="8861746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rjbebHe3ewQb4t8qMgAbeNPvzSOk6V9O2wOnN1R5+9LDihEvRbBsaHvOjBxXDhOsyuIbtTGeyQY0wb+p0U18AQ=="/>
                 <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake47-38.delta" sparkle:deltaFrom="38" length="10456850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XbphMFjBHOdo31rK2EsW/ev/HScqAgIYoDNRM79txW8vvEwYxiGvAP7H5lGaQXcoYw4t7e9OvJv2e80DXkh9CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.8.42</title>
-            <pubDate>Tue, 20 Oct 2026 23:00:25 +0100</pubDate>
-            <sparkle:version>46</sparkle:version>
-            <sparkle:shortVersionString>0.8.42</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake-0.8.42.zip" length="66630054" type="application/octet-stream" sparkle:edSignature="kIfjG7bFjKxhIkaO+3f96ZTKfqmwtNAkfZH69ZiY5nlHhNKqIhmoXAOpCDRzbzVWurUMJNdmtpt942Z+Efu0CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake46-42.delta" sparkle:deltaFrom="42" length="7664438" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="08beqAI1/afzrT/bsSFMviL7qgZjcWs/E4F7mql9MgjRiTEbs7rFQXN4u67RFeecJrxGq01rlRpXxvMALF7KDA=="/>
-                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake46-41.delta" sparkle:deltaFrom="41" length="7880998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BuQFH2GpYt1rr5pgBzO9GltgGdPw3F8y0wT9VBRhZiLM6BNoInxtC++WPi5clDNE7fYzfudZgVZp0wRqL4x2CA=="/>
-                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake46-40.delta" sparkle:deltaFrom="40" length="8818878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="2MWmwmplzljtGAWuGBFv74PrWTuzQtNms61xPmlEn7mWTXH6PwaFPW7Lk2IUI1ngXKoDOfYOia2VcVrXcyuvBw=="/>
-                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake46-38.delta" sparkle:deltaFrom="38" length="10464622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E/xCa53jKlneOrBaldcE8+C3D8L5LwWObwekSxcp07TVrJPbEQ8ouMPs9+WhVSKPoD/DQUgwCVT9qCaVI46CBw=="/>
-                <enclosure url="https://github.com/GoodAnalysis/mindlake-releases/releases/download/updates/Mindlake46-36.delta" sparkle:deltaFrom="36" length="11248594" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m9YSmoA/YPG825yUrzU2vgwjnh49PPKyIOh56/cCZyL0mxwLGjEQOnxf19ci1MaY/YLLcTTNJhoRM57WLVchBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
